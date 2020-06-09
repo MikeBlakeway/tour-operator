@@ -1,0 +1,22 @@
+{
+  "name": "tour-operator",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeBlakeway/tour-operator.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mike Blakeway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeBlakeway/tour-operator/issues"
+  },
+  "homepage": "https://github.com/MikeBlakeway/tour-operator#readme"
+}
